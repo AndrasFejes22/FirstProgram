@@ -103,7 +103,7 @@ int main()
 {
    Employee e1 = Employee("Andras", "Sony", 31);
    Employee e2;
-
+   Employee e3;
   /*  e1.Name = "Andras"; komment block Shift + Alt + A
    e1.Company = "GE";
    e1.Age = 42; */
